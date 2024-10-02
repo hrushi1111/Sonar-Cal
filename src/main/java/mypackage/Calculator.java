@@ -13,7 +13,7 @@ public class Calculator extends HttpServlet
 	
 	public long subFucn(long first, long second){
 		
-		return second-first;
+		return first-second;
 	}
 	
 	public long mulFucn(long first, long second){
